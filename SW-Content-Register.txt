@@ -1,0 +1,27 @@
+Release Name: an-lpc802_io_eeprom
+Release Version: 1.0.0
+Package License: BSD-3-Clause
+License File: LICENSE
+Description: This demo shows how to use the I2C-bus interface of LPC802 and on-chip flash memory to simulate traditional I2C-bus EEPROM devices.
+Release Location: https://github.com/nxp-appcodehub/an-lpc802_io_eeprom
+Origin: NXP
+
+lpc802_flash_eeprom        Name: lpc802_flash_eeprom                   
+                           Version: NA                                    
+                           Outgoing License: BSD-3-Clause                    
+                           License File: LICENSE                       
+                           Format: source code                               
+                           Description: lpc802_flash_eeporm slave source code                
+                           Location: lpc802_flash_eeprom    
+                           Origin: NXP (BSD-3-Clause)   
+
+lpc845_eeprom_master       Name:lpc845_eeprom_master master                     
+                           Version: NA                                    
+                           Outgoing License: BSD-3-Clause                    
+                           License File: LICENSE                       
+                           Format: source code                               
+                           Description: lpc802_flash_eeporm master source code                       
+                           Location: lpc845_eeprom_master    
+                           Origin: NXP (BSD-3-Clause)                        
+
+                                                                                                  
